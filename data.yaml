@@ -1,0 +1,11 @@
+# train and val datasets (image directory or *.txt file with image paths)
+train: /home/sagarnildass/python_notebooks/YOLO_Experiments/cello_guitar/data/guitar/train/images
+val: /home/sagarnildass/python_notebooks/YOLO_Experiments/cello_guitar/data/guitar/val/images
+
+# number of classes
+nc: 1
+
+# class names
+# Classes
+names: ['Guitar']
+
